@@ -23,6 +23,6 @@ $ python ma.py
 <br>
 <br>
 
-### 리스트 생성(미국)
-FinanceDataReader library 이용 계획. 나스닥, S&P500에 대해 따로 생성
+### 결과 (2022-11-04)
+![image](https://user-images.githubusercontent.com/67510613/199876345-035ec6ab-af50-4853-bc64-361623e62e99.png)
 
