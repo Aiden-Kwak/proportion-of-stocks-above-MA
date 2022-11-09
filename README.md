@@ -25,4 +25,7 @@ $ python ma.py
 
 ### 결과 (2022-11-04)
 ![image](https://user-images.githubusercontent.com/67510613/199876345-035ec6ab-af50-4853-bc64-361623e62e99.png)
+![image](https://user-images.githubusercontent.com/67510613/200764200-d261fa37-e4a6-46fd-b893-2b8e95539c87.png)
 
+* 데이터 추가중
+> 해당 결과는 ma.py 실행 결과를 각각 모아 charts.py에 추가해 만든 그래프다. 10/24~11/9 이전은 아직 0으로 들어감. 추가예정

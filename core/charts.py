@@ -7,8 +7,7 @@ import matplotlib.pyplot as plt
 today = datetime.date.today()
 df_sp500 = fdr.DataReader('US500', '2022-10-03', today)
 index = df_sp500.index.tolist()
-
-조정값 = [45,57.8,61,67.9] # 최우측이 오늘
+조정값 = [85.6, 93.4, 90.2, 87.2, 90.8, 91, 87.6, 55, 45, 57.8, 61, 67.9] # 최우측이 오늘
 ma_list = [0]*(len(index)-len(조정값))+조정값
 
 df_ma = pd.DataFrame({'ma':ma_list, 'Date':index})
